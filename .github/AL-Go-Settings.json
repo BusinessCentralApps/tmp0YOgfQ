@@ -3,5 +3,6 @@
   "templateUrl": "https://github.com/businesscentralapps/tmp25dIle-PTE@main",
   "doNotPublishApps": false,
   "useCompilerFolder": false,
-  "MicrosoftTelemetryConnectionString": ""
+  "MicrosoftTelemetryConnectionString": "",
+  "templateSha": "d5e106b17c833cc1c3f44102c5415b717439f29e"
 }
