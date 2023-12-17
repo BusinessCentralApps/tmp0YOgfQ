@@ -1,0 +1,7 @@
+{
+  "type": "PTE",
+  "templateUrl": "https://github.com/businesscentralapps/tmp25dIle-PTE@main",
+  "doNotPublishApps": false,
+  "useCompilerFolder": false,
+  "MicrosoftTelemetryConnectionString": ""
+}
